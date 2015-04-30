@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Point</string>
+    <string name="title_activity_gldemo">Glass Point</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_reset">Reset</string>
+    <string name="edit">Edit Field</string>
+    <string name="edit_all">Edit All Fields</string>
+    <string name="add">Add</string>
+    <string name="details">Details</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="home">Home</string>
+    <string name="update">Update</string>
+    <string name="empty"> </string>
+</resources>

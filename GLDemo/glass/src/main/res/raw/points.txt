@@ -1,0 +1,6 @@
+hi, 3, 3, list of things, more things
+hello, 6, 6, list of things, more things
+test, -3, 2, list of things, more things
+test2, 6, -6, list of things, more things
+test3, 7, -2, stuff, stuff and things
+Shiny, -3, -3, We're done here, Cave Johnson

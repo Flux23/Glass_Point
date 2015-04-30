@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".GLDemo">
+
+    <com.example.ryan.gldemo.PointView
+        android:id="@+id/point_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <TextView android:text="@string/hello_world"
+            android:id="@+id/text1"
+            android:textColor="#FFFFFF"
+            android:layout_width="300px"
+            android:layout_height="wrap_content" />
+
+        <TextView android:text="@string/hello_world"
+            android:id="@+id/text2"
+            android:textColor="#FFFFFF"
+            android:layout_width="300px"
+            android:layout_height="wrap_content" />
+
+        <TextView android:text="@string/hello_world"
+            android:id="@+id/text3"
+            android:textColor="#FFFFFF"
+            android:layout_width="300px"
+            android:layout_height="wrap_content" />
+
+        <TextView android:text="@string/hello_world"
+            android:id="@+id/text4"
+            android:textColor="#FFFFFF"
+            android:layout_width="300px"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</RelativeLayout>
